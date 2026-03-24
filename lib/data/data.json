@@ -1,0 +1,137 @@
+{
+  "personal": {
+    "name": "Ipsha Verma",
+    "initials": "IV",
+    "role": "Data Analyst",
+    "email": "ipshaverma20@gmail.com",
+    "phone": "+916232689108",
+    "github": "https://github.com/Ipshaverma",
+    "linkedin": "https://www.linkedin.com/in/ipsha-verma-iv",
+    "resumeUrl": "https://drive.google.com/file/d/14S5eX_M6dVaKKJG9O8t_LRbsiXhVtx-U/view?usp=drivesdk",
+    "heroTagline": "Turning data into",
+    "heroTaglineAccent": "decisions that matter.",
+    "heroBio": "I'm Ipsha Verma, a Data Analyst and B.Tech IT graduate from MITS Gwalior. I specialize in transforming complex datasets into actionable insights using SQL, Python, and Power BI — driving smarter decisions across industries.",
+    "aboutLabel": "About Me",
+    "aboutHeading": "Transforming raw data,",
+    "aboutHeadingAccent": "one insight at a time.",
+    "aboutBio1": "I am a Data Analyst dedicated to transforming complex industrial and business datasets into clear, actionable insights. My expertise spans SQL-based querying of 500K+ records, Python-driven automation, anomaly detection, and interactive Power BI dashboards that empower real-time decision-making.",
+    "aboutBio2": "When I'm not crunching data, you'll find me exploring new visualization techniques, building end-to-end analytics pipelines, or sharpening my skills in machine learning and statistical modeling.",
+    "contactLabel": "Get in Touch",
+    "contactHeading": "Let's turn your data into",
+    "contactHeadingAccent": "insights together.",
+    "contactBio": "Have a data challenge or analytics project in mind? I'd love to help uncover insights that drive real business decisions. Let's connect.",
+    "footerName": "Ipsha",
+    "devCardStat1Value": "500K+",
+    "devCardStat1Label": "Records Analyzed",
+    "devCardStat2Value": "6",
+    "devCardStat2Label": "BI Dashboards Built"
+  },
+  "education": {
+    "institution": "Madhav Institute of Technology and Science",
+    "degree": "B.Tech in Information Technology",
+    "location": "Gwalior",
+    "duration": "Nov 2021 – July 2025"
+  },
+  "techStack": [
+    { "name": "SQL / Python", "icon": "Database" },
+    { "name": "Power BI / Looker", "icon": "BarChart2" },
+    { "name": "Pandas / NumPy", "icon": "TrendingUp" },
+    { "name": "Matplotlib / Seaborn", "icon": "PieChart" },
+    { "name": "MySQL / PostgreSQL", "icon": "Server" },
+    { "name": "Excel / Jupyter", "icon": "Table" }
+  ],
+  "experience": [
+    {
+      "id": "1",
+      "role": "Data Operational Analyst Intern",
+      "company": "Neuralix.ai",
+      "duration": "Sep 2025 – Jan 2026",
+      "description": "Analyzed 500K+ real-time SCADA and industrial sensor records using SQL and Python to support predictive maintenance across energy, utilities, and manufacturing assets. Cleaned and standardized 100+ equipment data streams, built 40+ automated validation checks reducing false anomaly alerts by ~35%, and developed 6 Power BI dashboards for real-time equipment health monitoring.",
+      "tech": ["SQL", "Python", "Power BI", "SCADA", "ETL", "DAX"]
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "Enterprise Sales Analytics Platform",
+      "description": "End-to-End BI & SQL project processing 60K+ sales records across 25+ product categories and 4 regions. Built a star-schema data model and interactive Power BI dashboard with 8+ KPIs (Revenue, Profit Margin, AOV, Sales Growth), identifying top 10 products contributing ~35% of total revenue.",
+      "tags": ["Power BI", "SQL", "Python"],
+      "link": "#",
+      "image": null
+    },
+    {
+      "id": "2",
+      "title": "User Funnel & Campaign Performance Analysis",
+      "description": "Analyzed 120K+ user events to map the full conversion funnel (Visit → Add-to-Cart → Purchase), identifying a 42% drop-off at checkout. Performed cohort and retention analysis across 6 campaign channels, revealing email campaigns delivered 2.3× higher repeat purchase rate than paid ads.",
+      "tags": ["SQL", "Power BI"],
+      "link": "#",
+      "image": null
+    },
+    {
+      "id": "3",
+      "title": "Pricing & Revenue Optimization Strategy",
+      "description": "Analyzed 120K+ transactions across 15K+ SKUs using Pareto-based SKU segmentation. Found top 20% of products contributed ~72% of revenue. Built a price elasticity simulation model estimating 8–12% revenue uplift from ±10% price adjustments across key categories.",
+      "tags": ["SQL", "Python", "Power BI"],
+      "link": "#",
+      "image": null
+    },
+    {
+      "id": "4",
+      "title": "Marketing Campaign ROI Analytics Dashboard",
+      "description": "Evaluated multi-channel marketing campaigns (Email, Google Ads, LinkedIn) across 50K+ interactions. Tracked $250K+ marketing spend, identified Email campaigns with 3.1× higher ROI, and recommended reallocation reducing low-performing ad spend by ~18%.",
+      "tags": ["SQL", "Python", "Power BI"],
+      "link": "#",
+      "image": null
+    },
+    {
+      "id": "5",
+      "title": "Fraud Detection & Risk Operations Dashboard",
+      "description": "Processed 50K+ financial transactions across multiple merchants, designing a rule-based risk scoring framework detecting velocity spikes, abnormal amounts, and merchant risk signals. Built a Power BI dashboard with 6+ operational KPIs identifying ~6% high-risk transactions requiring manual review.",
+      "tags": ["Python", "Power BI"],
+      "link": "#",
+      "image": null
+    }
+  ],
+  "certifications": [
+    {
+      "id": "1",
+      "name": "Introduction to Python for Data Science",
+      "issuer": "Coursera",
+      "url": "#"
+    },
+    {
+      "id": "2",
+      "name": "SQL for Data Analysis",
+      "issuer": "Coursera",
+      "url": "#"
+    },
+    {
+      "id": "3",
+      "name": "IBM AI Engineering Professional Certificate",
+      "issuer": "Coursera",
+      "url": "#"
+    }
+  ],
+  "awards": [
+    {
+      "id": "1",
+      "title": "National Conference Winner",
+      "organization": "M.P. Young Scientist Congress (AI Healthcare System)"
+    },
+    {
+      "id": "2",
+      "title": "Winner, Innovation Challenge",
+      "organization": "MITS"
+    },
+    {
+      "id": "3",
+      "title": "1st Position, Model Making Competition",
+      "organization": ""
+    },
+    {
+      "id": "4",
+      "title": "Minor Project: All-in-One Ayurvedic Solution",
+      "organization": "MITS"
+    }
+  ]
+}
